@@ -1,7 +1,18 @@
-![cat](cat-pic.png)
+![cat](cat-picture.png)
 # 👋 Hi there! I'm Raquel
 
 I'm a fullstack web developer passionate about creating useful and accessible solutions. I specialize in Laravel, REST APIs, Docker, and a bit of AI magic 🤖.
+
+---
+
+## 🧠 Tech Stack
+
+![Laravel](https://img.shields.io/badge/Laravel-F72C1F?style=flat&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Figma](https://img.shields.io/badge/Figma-0ACF83?style=flat&logo=figma&logoColor=white)
+
 
 ---
 
@@ -22,15 +33,6 @@ I'm a fullstack web developer passionate about creating useful and accessible so
 
 ---
 
-## 🧠 Tech Stack
-
-![Laravel](https://img.shields.io/badge/Laravel-F72C1F?style=flat&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![Figma](https://img.shields.io/badge/Figma-0ACF83?style=flat&logo=figma&logoColor=white)
-
----
 
 ## 📫 Contact
 
