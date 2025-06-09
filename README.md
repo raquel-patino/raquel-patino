@@ -17,7 +17,6 @@ I'm a fullstack web developer passionate about creating useful and accessible so
 | Project | Description | Technologies |
 |--------|-------------|--------------|
 | 🎬 [Movie App](https://github.com/raquel-patino/movies-page) | API with login, roles, and AI-based recommendations | Laravel, Passport, Swagger |
-| 
 | 🏨 [Hotel Management](https://github.com/raquel-patino/5.API) | Complete system for reservations and billing | Laravel, MySQL, Docker |
 
 ---
