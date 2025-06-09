@@ -1,4 +1,4 @@
-![cat](cat-picture.png)
+![cat](cat-picture-resized.png)
 # 👋 Hi there! I'm Raquel
 
 I'm a fullstack web developer passionate about creating useful and accessible solutions. I specialize in Laravel, REST APIs, Docker, and a bit of AI magic 🤖.
