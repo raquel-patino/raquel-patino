@@ -1,7 +1,15 @@
-![cat](cat-pic-resized.png)
-# 👋 Hi there! I'm Raquel
-
-I'm a fullstack web developer passionate about creating useful and accessible solutions. I specialize in Laravel, REST APIs, Docker, and a bit of AI magic 🤖.
+<table>
+  <tr>
+    <td width="40%">
+      <img src="cat-pic-resized.png" alt="Raquel Dev" width="100%">
+    </td>
+    <td width="60%">
+      <h1>👋 Hi there! I'm Raquel</h1>
+      <p>I'm a fullstack web developer passionate about creating useful and accessible solutions.  
+      I specialize in Laravel, REST APIs, Docker, and a bit of AI magic 🤖.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
